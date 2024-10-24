@@ -1,0 +1,114 @@
+.name{
+    font-size: 50px;
+    color: rgb(204, 94, 94);
+}
+.drt{
+    margin-top: 100px;
+    background-color:  rgb(231, 131, 131);
+    color: white;
+    
+}
+.img{
+    width: 150px;
+}
+.home{
+    color: rgb(204, 94, 94);
+}
+.homo{
+    color: rgb(204, 94, 94);  
+    
+}
+.big{
+    margin-top: 50px;
+    
+}
+.big a{
+    text-decoration: none;
+}
+
+
+
+.ul{
+    margin-left: 50px;
+}
+
+.icons1{
+    margin-right: 30px;
+}
+.icons2{
+margin-right: 30px;
+}
+.icons3{
+margin-right: 30px;
+}
+.button{
+    border: 2px solid rgb(216, 98, 98);
+    background-color: white;
+color: rgb(216, 98, 98);
+}
+.button:hover{
+    color: antiquewhite;
+    background-color:  rgb(216, 98, 98);;
+}
+.h1{
+    font-size: 60px;
+    margin-top: 20px;
+}
+.delivery{
+    margin-top: 100px;
+    z-index: 1;
+    position: relative;
+}
+.h2{
+    margin-top: 20px;
+}
+.main{
+    display: flex;
+}
+.up{
+    margin-left: 50px;
+}
+.ui{
+    margin-left: 45px;
+}
+.bty{
+  float: right;
+  background-color: rgba(158, 158, 144, 0.781);
+  width: 100%;
+  text-align: right;
+  margin-right: 90px;
+  border: 10px solid rgba(176, 192, 194, 0.808);
+  margin-bottom: 120px;
+}
+.uo{
+    margin-left: 80px;
+}
+.h4{
+    font-size: 50px;
+}
+.bttn{
+    margin-left: 700px;
+}
+.body{
+    background-color: whitesmoke;
+}
+.email{
+    margin-right: 250px;
+    width: 20%;
+    float: right;
+}
+.urt{
+    margin-left: 30px;
+}
+ .margin{
+    margin-top: 30px;
+ }   
+ .op{
+    width: 100%;
+ }
+ .hhh{
+    margin-top: 50px;
+ }
+ .down{
+    float: right;
+ }
